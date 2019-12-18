@@ -2,6 +2,7 @@ This is todays content
 
 class MyClass{
 	public static void main(String args[]){
-		system.out.println("Added a class programe");
+		system.out.print("Added a class programe");
+		
 	}
 }
