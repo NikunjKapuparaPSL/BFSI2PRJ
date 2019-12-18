@@ -2,6 +2,6 @@ This is todays content
 
 class MyClass{
 	public static void main(String args[]){
-		system.outline.println("Added a class programe");
+		system.out.println("Added a class programe on 19-Dec");
 	}
 }
