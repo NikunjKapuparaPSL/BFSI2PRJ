@@ -1,1 +1,7 @@
 This is todays content
+
+class MyClass{
+	public static void main(String args[]){
+		syso("Added a class programe");
+	}
+}
